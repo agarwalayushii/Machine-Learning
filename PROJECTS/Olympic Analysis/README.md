@@ -1,7 +1,5 @@
 # Olympic Data Analysis
 
-Access the Project: https://olympic-stat.herokuapp.com/
-
 Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 
 ## How to run the program
